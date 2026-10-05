@@ -15,12 +15,6 @@ Customers found Ada's food on Instagram but had no clean way to see the whole me
 - An "Order via WhatsApp" button that opens a pre-filled message
 - Mobile-first layout that loads quickly on slow connections
 
-## Outreach fit
-**Portfolio role:** Restaurant / hospitality conversion example  
-**Best agency pitch:** Overflow production for restaurant, food, hospitality and local-business websites  
-**Demonstrates:** Mobile-first UX, catalogue/menu presentation, cart flow, WhatsApp conversion, responsive frontend and deployment  
-**Live proof:** https://relishmobilekitchen.netlify.app/
-
 ## Tech
 HTML, CSS, JavaScript. Deployed on Netlify.
 
