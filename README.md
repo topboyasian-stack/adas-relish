@@ -20,8 +20,8 @@ HTML, CSS, JavaScript. Deployed on Netlify.
 
 ## Run locally
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/topboyasian-stack/adas-relish.git
+cd adas-relish
 npx serve .
 ```
 
